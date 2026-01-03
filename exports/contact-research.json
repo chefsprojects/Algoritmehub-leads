@@ -1,5 +1,5 @@
 {
-    "generated_date": "2026-01-02 18:54",
+    "generated_date": "2026-01-03 13:42",
     "source": "Manual research + Algoritmeregister + online org sites",
     "contacts": {
         "Gemeente Asten": {
@@ -799,7 +799,7 @@
                     "role": "CIO (Chief Information Officer)",
                     "name": "Peter den Held",
                     "email": null,
-                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=peter%20den%20held%20rotterdam%20cio",
+                    "linkedin": "https://linkedin.com/in/peter-den-held-b755864",
                     "notes": "CIO sinds 2023"
                 },
                 {
@@ -867,7 +867,7 @@
                 }
             ],
             "notes": "Heeft Algoritme Adviesraad en uitgebreid governance beleid",
-            "last_checked_online": "2026-01-02 13:31"
+            "last_checked_online": "2026-01-03 13:30"
         },
         "Gemeente Groningen": {
             "primary_email": "opendata@groningen.nl",
@@ -925,7 +925,7 @@
                     "role": "CIO / Algemeen directeur Concern ICT",
                     "name": "Maarten Jonker",
                     "email": null,
-                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=maarten%20jonker%20uwv%20cio",
+                    "linkedin": "https://linkedin.com/in/maartenjonker",
                     "notes": "CIO sinds sept 2021, vertrekt eind jan 2026"
                 },
                 {
@@ -943,7 +943,7 @@
                     "notes": "Direct email voor FG"
                 }
             ],
-            "last_checked_online": "2026-01-02 13:31"
+            "last_checked_online": "2026-01-03 13:30"
         },
         "Douane": {
             "primary_email": "algoritmeregister@douane.nl",
@@ -2177,9 +2177,37 @@
                     "email": "info@svg.reclassering.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Directeur Landelijk Kantoor",
+                    "name": "Saskia Capello",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=saskia%20capello%20verslavingsreclassering",
+                    "notes": "Directeur van het landelijk kantoor SVG"
+                },
+                {
+                    "role": "Plaatsvervangend directeur",
+                    "name": "Erik Lanting",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=erik%20lanting%20verslavingsreclassering",
+                    "notes": "Plaatsvervangend directeur SVG"
+                },
+                {
+                    "role": "Dagelijks bestuur",
+                    "name": "Jeroen Gast",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=jeroen%20gast%20fivoor",
+                    "notes": "Lid dagelijks bestuur (Fivoor)"
+                },
+                {
+                    "role": "Dagelijks bestuur",
+                    "name": "Gerry van Bellen",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=gerry%20van%20bellen",
+                    "notes": "Lid dagelijks bestuur"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Sociale Verzekeringsbank": {
             "primary_email": "algoritmenenai@svb.nl",
@@ -2970,9 +2998,16 @@
                     "email": "ina-pfr@sdu.nl.",
                     "linkedin": null,
                     "notes": "Found on https://portal.ina-pfr.nl/contact"
+                },
+                {
+                    "role": "Plaatsvervangend directeur / Teamleider",
+                    "name": "Jaco de Greef",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/in/jaco-de-greef-4469a75b/",
+                    "notes": "Plaatsvervangend directeur en Teamleider Financiën, Contractmanagement en Juridische Zaken"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Gemeente Teylingen": {
             "primary_email": "info@hltsamen.nl",
@@ -3402,9 +3437,23 @@
                     "email": "info@nipv.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Voorzitter dagelijks bestuur",
+                    "name": "Ton Heerts",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=ton%20heerts%20nipv",
+                    "notes": "Voorzitter van het dagelijks bestuur NIPV"
+                },
+                {
+                    "role": "Algemeen directeur (vertrekkend)",
+                    "name": "IJle Stelstra",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=ijle%20stelstra%20nipv",
+                    "notes": "Voormalig algemeen directeur, maakt ruimte voor opvolger"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Provincie Noord-Holland": {
             "primary_email": "servicepunt@noord-holland.nl",
@@ -3533,9 +3582,16 @@
                     "email": "wmo@westerkwartier.nl",
                     "linkedin": null,
                     "notes": "Found on https://westerkwartier.nl/contact"
+                },
+                {
+                    "role": "Teammanager Automatisering",
+                    "name": "Martijn C.",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=martijn%20automatisering%20westerkwartier",
+                    "notes": "Hoofd IT afdeling (14 medewerkers)"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Rucphen": {
             "primary_email": "gemeente@rucphen.nl",
@@ -3560,9 +3616,16 @@
                     "email": "verkiezingen@rucphen.nl.",
                     "linkedin": null,
                     "notes": "Found on https://rucphen.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Sandor Michielse",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=sandor%20michielse%20rucphen",
+                    "notes": "Nieuwe gemeentesecretaris vanaf 1 september, opvolger Fred Verheijen"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Amersfoort": {
             "primary_email": "algoritmeregister@amersfoort.nl",
@@ -3573,9 +3636,16 @@
                     "email": "algoritmeregister@amersfoort.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "CIO / Directeur",
+                    "name": "Aline Wolswinkel-Kuikman",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=aline%20wolswinkel%20kuikman%20amersfoort",
+                    "notes": "CIO en directeur gemeente Amersfoort"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Waalwijk": {
             "primary_email": "info@waalwijk.nl",
@@ -3627,9 +3697,16 @@
                     "email": "info@kampen.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Nico Middelbos",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=nico%20middelbos%20kampen",
+                    "notes": "Gemeentesecretaris sinds juni 2019, voorheen Gemeente Zwolle"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Apeldoorn": {
             "primary_email": "FG@apeldoorn.nl",
@@ -3799,9 +3876,16 @@
                     "email": "team-finance-legal@xxllnc.nl.",
                     "linkedin": null,
                     "notes": "Found on https://xxllnc.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur (vertrokken december 2025)",
+                    "name": "Marco de Graaf",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=marco%20de%20graaf%20steenwijkerland",
+                    "notes": "Vertrokken per 1 december 2025 naar gemeente Enschede"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Gemeente Ede": {
             "primary_email": "info@ede.nl",
@@ -3819,9 +3903,23 @@
                     "email": "belastingen@ede.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "CIO",
+                    "name": "Erik Dolle",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=erik%20dolle%20gemeente%20ede",
+                    "notes": "CIO gemeente Ede, sprak op VNG Uitvoeringscongres over digitale autonomie"
+                },
+                {
+                    "role": "Informatiemanager",
+                    "name": "Sander Wellinga",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=sander%20wellinga%20ede",
+                    "notes": "Informatiemanager IT afdeling"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Breda": {
             "primary_email": "fg@breda.nl",
@@ -3866,9 +3964,23 @@
                     "email": "teamuiterwaarden@rws.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "CIO / Hoofdingenieur-directeur",
+                    "name": "Ron Kolkman",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=ron%20kolkman%20rijkswaterstaat",
+                    "notes": "CIO en HID Centrale Informatievoorziening sinds februari 2022"
+                },
+                {
+                    "role": "Manager CIO Office",
+                    "name": "Camiel Both",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=camiel%20both%20rijkswaterstaat",
+                    "notes": "Manager CIO-office vanaf oktober 2025, opvolger van Arnold de Leeuw"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Provincie Utrecht": {
             "primary_email": "algoritmes@provincie-utrecht.nl",
@@ -3913,9 +4025,16 @@
                     "email": "jquery-validation@1.17.0",
                     "linkedin": null,
                     "notes": "Found on https://zutphen.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Monique Stouten",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=monique%20stouten%20zutphen",
+                    "notes": "Gemeentesecretaris sinds september 2019"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Mook en Middelaar": {
             "primary_email": "gemeente@mookenmiddelaar.nl",
@@ -3933,9 +4052,16 @@
                     "email": "u003egemeente@mookenmiddelaar.nl",
                     "linkedin": null,
                     "notes": "Found on https://mookenmiddelaar.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris",
+                    "name": "Ward Mariman",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=ward%20mariman%20mook%20middelaar",
+                    "notes": "Voorheen werkzaam in zorg (ziekenhuis secretaris) en gemeente Nijmegen"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Gemeente Dijk en Waard": {
             "primary_email": "griffie@dijkenwaard.nl",
@@ -3953,9 +4079,16 @@
                     "email": "omgevingsloket@dijkenwaard.nl",
                     "linkedin": null,
                     "notes": "Found on https://dijkenwaard.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur (vertrokken sept 2025)",
+                    "name": "Annet Doesburg",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=annet%20doesburg%20dijk%20en%20waard",
+                    "notes": "Vertrokken per 1 september 2025, opvolger wordt gezocht"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Gemeente Berkelland": {
             "primary_email": "info@gemeenteberkelland.nl",
@@ -5059,9 +5192,16 @@
                     "email": "digitaleoverheid.nl@www.digitaleoverheid.nl",
                     "linkedin": null,
                     "notes": "Found on https://www.digitaleoverheid.nl/contact"
+                },
+                {
+                    "role": "Algemeen directeur",
+                    "name": "Bert Voorbraak",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=bert%20voorbraak%20logius",
+                    "notes": "Algemeen directeur sinds 26 februari 2024, voorheen Kadaster"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Dienst Terugkeer en Vertrek": {
             "primary_email": "info@dtv.minvenj.nl",
@@ -5072,9 +5212,16 @@
                     "email": "info@dtv.minvenj.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Algemeen directeur",
+                    "name": "Simone Steendijk",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=simone%20steendijk%20dtv",
+                    "notes": "Algemeen directeur DT&V"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:41"
         },
         "Ministerie van Buitenlandse Zaken": {
             "primary_email": "hdcv-bao@minbuza.nl",
@@ -5112,9 +5259,23 @@
                     "email": "algoritme@kvk.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "CIO / Directeur IT",
+                    "name": "Pieter Halenbeek",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=pieter%20halenbeek%20kvk",
+                    "notes": "CIO en directeur IT sinds 2019"
+                },
+                {
+                    "role": "Lid Raad van Bestuur (digitale transformatie)",
+                    "name": "Petra Jansen op de Haar",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=petra%20jansen%20op%20de%20haar%20kvk",
+                    "notes": "Lid RvB per 1 januari 2026, focus op digitale transformatie en dienstverlening"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Justis": {
             "primary_email": "trackrm@justis.nl",
@@ -5125,9 +5286,16 @@
                     "email": "trackrm@justis.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Algemeen directeur",
+                    "name": "Marise Bezema",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/in/marise-bezema",
+                    "notes": "Algemeen directeur per 1 april 2025, voorheen NS Stations"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:40"
         },
         "CIBG": {
             "primary_email": "info@bigregister.nl",
@@ -5145,9 +5313,30 @@
                     "email": "pers@cibg.nl",
                     "linkedin": null,
                     "notes": "Found on https://www.bigregister.nl/contact"
+                },
+                {
+                    "role": "Algemeen directeur (CEO)",
+                    "name": "Marko Stupar",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=marko%20stupar%20cibg",
+                    "notes": "Algemeen directeur sinds 1 juli 2022"
+                },
+                {
+                    "role": "Directeur Operationele Zaken (COO)",
+                    "name": "Selma Went-Van Zoest",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=selma%20went%20van%20zoest%20cibg",
+                    "notes": "Start 1 januari 2026 als directeur Operationele Zaken"
+                },
+                {
+                    "role": "Directeur Informatiemanagement",
+                    "name": "Meryem El-Bouyahyaoui",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=meryem%20el%20bouyahyaoui%20cibg",
+                    "notes": "Directeur Informatiemanagement"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:41"
         },
         "Waterschap Drents Overijsselse Delta": {
             "primary_email": "info@wdodelta.nl",
@@ -5158,21 +5347,58 @@
                     "email": "info@wdodelta.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Secretaris-Directeur",
+                    "name": "Els van Grol",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=els%20van%20grol%20wdodelta",
+                    "notes": "Secretaris-directeur sinds 1 oktober 2023, voorheen Director Winning en Zuivering bij Vitens"
+                },
+                {
+                    "role": "Dijkgraaf",
+                    "name": "Dirk-Siert Schoonman",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=dirk%20siert%20schoonman%20wdodelta",
+                    "notes": "Dijkgraaf waterschap"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Centraal Justitieel Incassobureau": {
             "primary_email": null,
-            "contacts": [],
+            "contacts": [
+                {
+                    "role": "Algemeen directeur (huidig tot eind 2025)",
+                    "name": "Albert Zadelhoff",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=albert%20zadelhoff%20cjib",
+                    "notes": "Huidig algemeen directeur, gaat met pensioen"
+                },
+                {
+                    "role": "Algemeen directeur (per 1 januari 2026)",
+                    "name": "Johan Bac",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=johan%20bac%20cjib",
+                    "notes": "Nieuwe algemeen directeur per 1 januari 2026, voorheen OvJ en hoofdofficier"
+                }
+            ],
             "notes": "Geen email gevonden in Algoritmeregister",
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Kadaster": {
             "primary_email": null,
-            "contacts": [],
+            "contacts": [
+                {
+                    "role": "Directeur Bestuur en Strategie",
+                    "name": "Christa ter Braak-Oude Nijhuis",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=christa%20ter%20braak%20kadaster",
+                    "notes": "Benoemd op 6 februari 2025, lid directieraad"
+                }
+            ],
             "notes": "Geen email gevonden in Algoritmeregister",
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:36"
         },
         "Gemeente Epe": {
             "primary_email": "gemeente@epe.nl",
@@ -5183,9 +5409,16 @@
                     "email": "gemeente@epe.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Ferdinand Contant",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=ferdinand%20contant%20epe",
+                    "notes": "Nieuwe gemeentesecretaris sinds 18 augustus 2025, voorheen gemeente Putten"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:40"
         },
         "Gemeente Reimerswaal": {
             "primary_email": "gemeente@reimerswaal.nl",
@@ -5196,9 +5429,16 @@
                     "email": "gemeente@reimerswaal.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Gemeentesecretaris",
+                    "name": "F.L.A.R. Marquinie",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=marquinie%20reimerswaal",
+                    "notes": "Gemeentesecretaris mr. F.L.A.R. Marquinie MBA"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:40"
         },
         "Gemeente Lingewaard": {
             "primary_email": "info@lingewaard.nl",
@@ -5230,9 +5470,23 @@
                     "email": "u003egemeente@lingewaard.nl",
                     "linkedin": null,
                     "notes": "Found on https://lingewaard.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris",
+                    "name": "Igor van der Valk",
+                    "email": "I.vanderValk@lingewaard.nl",
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=igor%20van%20der%20valk%20lingewaard",
+                    "notes": "Bereikbaar via 06 28 17 88 46"
+                },
+                {
+                    "role": "Directeur",
+                    "name": "Martijn van Kooij",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=martijn%20van%20kooij%20lingewaard",
+                    "notes": "Directeur naast gemeentesecretaris"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Gemeente Meppel": {
             "primary_email": "postbus@meppel.nl",
@@ -5277,9 +5531,16 @@
                     "email": "info@noord-beveland.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Bas Melis",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=bas%20melis%20noord%20beveland",
+                    "notes": "Gemeentesecretaris mr. B.C.C. Melis sinds 15 februari 2022"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:40"
         },
         "Provincie Flevoland": {
             "primary_email": "algoritme@flevoland.nl",
@@ -5359,9 +5620,16 @@
                     "email": "vacature@over-gemeenten.nl",
                     "linkedin": null,
                     "notes": "Found on https://over-gemeenten.nl/contact"
+                },
+                {
+                    "role": "Gemeentesecretaris",
+                    "name": "Dick van Huizen",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=dick%20van%20huizen%20oostzaan",
+                    "notes": "Gemeentesecretaris sinds 1 juni 2023, voorheen Nijkerk"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:42"
         },
         "Gemeente Assen": {
             "primary_email": "info@assen.nl",
@@ -5372,9 +5640,16 @@
                     "email": "info@assen.nl",
                     "linkedin": null,
                     "notes": "Afgeleid uit Algoritmeregister"
+                },
+                {
+                    "role": "Gemeentesecretaris / Directeur",
+                    "name": "Theo Dijkstra",
+                    "email": "t.dijkstra@assen.nl",
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=theo%20dijkstra%20assen",
+                    "notes": "Gemeentesecretaris sinds juni 2022, voorheen directeur middelen/concerncontroller gemeente Groningen"
                 }
             ],
-            "last_checked_online": "2026-01-02 19:42"
+            "last_checked_online": "2026-01-03 13:38"
         },
         "Asiel en Migratie": {
             "primary_email": "postbusalgoritmes@minjenv.nl",
@@ -7995,6 +8270,45 @@
                 }
             ],
             "last_checked_online": "2026-01-02 19:36"
+        },
+        "Gemeente Putten": {
+            "primary_email": null,
+            "contacts": [
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Robert 't Hoen",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=robert%20t%20hoen%20putten",
+                    "notes": "Nieuwe gemeentesecretaris per 1 oktober 2025, voorheen Scherpenzeel"
+                }
+            ],
+            "last_checked_online": "2026-01-03 13:42"
+        },
+        "Gemeente Hellendoorn": {
+            "primary_email": null,
+            "contacts": [
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Adrie Ouwehand",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=adrie%20ouwehand%20hellendoorn",
+                    "notes": "Gemeentesecretaris sinds 1 december 2023, tel: 06-34083432"
+                }
+            ],
+            "last_checked_online": "2026-01-03 13:42"
+        },
+        "Gemeente Deventer": {
+            "primary_email": null,
+            "contacts": [
+                {
+                    "role": "Gemeentesecretaris / Algemeen directeur",
+                    "name": "Jan Peter Wassens",
+                    "email": null,
+                    "linkedin": "https://www.linkedin.com/search/results/all/?keywords=jan%20peter%20wassens%20deventer",
+                    "notes": "Gemeentesecretaris/Algemeen directeur gemeente Deventer"
+                }
+            ],
+            "last_checked_online": "2026-01-03 13:42"
         }
     }
 }
