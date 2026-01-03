@@ -1,0 +1,907 @@
+{
+  "generated_date": "2026-01-02 08:49",
+  "criteria": {
+    "sweet_spot_algorithms": "5-30",
+    "min_impactful": 1,
+    "preferred_types": [
+      "Gemeente",
+      "ZBO"
+    ],
+    "recent_activity_bonus": "Last 6 months"
+  },
+  "quick_wins": [
+    {
+      "name": "Gemeente Asten",
+      "type": "Gemeente",
+      "algorithm_count": 13,
+      "impactful_count": 6,
+      "high_risk_count": 5,
+      "has_iama": false,
+      "latest_date": "2025-12-10",
+      "first_date": "2025-10-20",
+      "lead_score": 100,
+      "priority": "Hot",
+      "categories": {
+        "Openbare orde en veiligheid": 1,
+        "Overheidsfinanciën": 1,
+        "Organisatie en bedrijfsvoering": 11
+      },
+      "contact_emails": [
+        "gemeente@asten.nl"
+      ],
+      "websites": [
+        "https://www.asten.nl/meldingen-klachten-en-bezwaar/melding-woon-of-leefomgeving#c5355",
+        "https://www.asten.nl/toegankelijkheid",
+        "https://www.asten.nl/",
+        "https://www.asten.nl/bouwen-en-verbouwen/omgevingsvergunning",
+        "https://www.rvig.nl/landelijke-aanpak-adreskwaliteit-laa"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Voorleessoftware website / Readspeaker",
+          "date": "2025-12-10",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Anonimiseren personen opnames Bodycam",
+          "date": "2025-10-20",
+          "category": "Openbare orde en veiligheid"
+        },
+        {
+          "name": "Factuurverwerking",
+          "date": "2025-10-20",
+          "category": "Overheidsfinanciën"
+        }
+      ],
+      "outreach_score": 115
+    },
+    {
+      "name": "Gemeente Tilburg",
+      "type": "Gemeente",
+      "algorithm_count": 13,
+      "impactful_count": 5,
+      "high_risk_count": 10,
+      "has_iama": false,
+      "latest_date": "2025-06-26",
+      "first_date": "2024-06-27",
+      "lead_score": 100,
+      "priority": "Hot",
+      "categories": {
+        "Economie, Overheidsfinanciën": 1,
+        "Openbare orde en veiligheid, Migratie en integratie, Internationaal": 1,
+        "Organisatie en bedrijfsvoering": 2,
+        "Natuur en milieu, Recht": 1,
+        "Verkeer": 1,
+        "Sociale zekerheid": 5
+      },
+      "contact_emails": [
+        "algoritme@tilburg.nl"
+      ],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "Authenticatie Biometrie",
+          "date": "2025-06-26",
+          "category": "Openbare orde en veiligheid, Migratie en integratie, Internationaal"
+        },
+        {
+          "name": "Robot proces automatiseren in het WOZ-bezwaren (keten)proces ",
+          "date": "2024-06-27",
+          "category": "Economie, Overheidsfinanciën"
+        },
+        {
+          "name": "Adressen Op Orde",
+          "date": "2024-06-27",
+          "category": ""
+        }
+      ],
+      "outreach_score": 105
+    },
+    {
+      "name": "Gemeente Beekdaelen",
+      "type": "Gemeente",
+      "algorithm_count": 8,
+      "impactful_count": 6,
+      "high_risk_count": 5,
+      "has_iama": false,
+      "latest_date": "2025-04-28",
+      "first_date": "2024-09-30",
+      "lead_score": 94,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 7,
+        "Openbare orde en veiligheid": 1
+      },
+      "contact_emails": [
+        "gemeente@beekdaelen.nl"
+      ],
+      "websites": [
+        "https://www.beekdaelen.nl/toegankelijkheid"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Bouwactiviteit Omgevingsplan",
+          "date": "2025-04-28",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Bouwactiviteit technisch",
+          "date": "2025-04-28",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Boomkap of houtopstand vellen",
+          "date": "2025-04-28",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 105
+    },
+    {
+      "name": "Gemeente Arnhem",
+      "type": "Gemeente",
+      "algorithm_count": 15,
+      "impactful_count": 11,
+      "high_risk_count": 10,
+      "has_iama": true,
+      "latest_date": "2025-11-18",
+      "first_date": "2024-05-22",
+      "lead_score": 90,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 8,
+        "Ruimte en infrastructuur, Openbare orde en veiligheid": 1,
+        "Sociale zekerheid, Werk, Overheidsfinanciën": 1,
+        "Economie, Ruimte en infrastructuur": 1,
+        "Openbare orde en veiligheid, Ruimte en infrastructuur": 1,
+        "Overheidsfinanciën, Economie, Sociale zekerheid": 1,
+        "Sociale zekerheid": 1,
+        "Sociale zekerheid, Organisatie en bedrijfsvoering": 1
+      },
+      "contact_emails": [
+        "algoritmeregister@arnhem.nl",
+        "algoritmes@arnhem.nl"
+      ],
+      "websites": [
+        "https://www.arnhem.nl/Inwoners/werk_en_inkomen/bijstandsuitkering/Bijstandsuitkering_aanvragen",
+        "https://www.arnhem.nl/Inwoners/werk_en_inkomen/individuele_inkomenstoeslag",
+        "https://www.arnhem.nl/stad_en_wijken/Wegen_en_vervoer/milieuzone",
+        "https://www.arnhem.nl/Inwoners/parkeren/Privacyverklaring_parkeren_gemeente_Arnhem",
+        "https://www.arnhem.nl/Inwoners/werk_en_inkomen/bijstandsuitkering/Extra_geld_verdienen_met_parttime_werk_naast_uw_uitkering",
+        "https://www.arnhem.nl/algemeen/Over_deze_site/Toegankelijkheid",
+        "https://opendata.arnhem.nl/",
+        "https://www.rvig.nl/landelijke-aanpak-adreskwaliteit-laa"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Landelijke Aanpak Adreskwaliteit (LAA)",
+          "date": "2025-11-18",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Toekenning Bijverdienbeloning",
+          "date": "2025-11-06",
+          "category": "Sociale zekerheid, Werk, Overheidsfinanciën"
+        },
+        {
+          "name": "Fixi - Meldingen Openbare Ruimte ",
+          "date": "2025-11-05",
+          "category": "Ruimte en infrastructuur, Openbare orde en veiligheid"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Almere",
+      "type": "Gemeente",
+      "algorithm_count": 12,
+      "impactful_count": 5,
+      "high_risk_count": 4,
+      "has_iama": true,
+      "latest_date": "2025-11-18",
+      "first_date": "2024-12-11",
+      "lead_score": 86,
+      "priority": "Hot",
+      "categories": {
+        "Sociale zekerheid": 1,
+        "Overheidsfinanciën": 1,
+        "Organisatie en bedrijfsvoering": 4,
+        "Openbare orde en veiligheid": 1,
+        "Ruimte en infrastructuur": 1,
+        "Werk": 1,
+        "Wonen, Natuur en milieu, Ruimte en infrastructuur": 1,
+        "Ruimte en infrastructuur, Zorg en gezondheid, Wonen": 1,
+        "Verkeer": 1
+      },
+      "contact_emails": [
+        "info@tygron.com",
+        "info@almere.nl"
+      ],
+      "websites": [
+        "https://www.digitaleoverheid.nl/innovatieproject/standaard-voor-transparantie-besluitvorming/"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Vroeg eropaf",
+          "date": "2025-11-18",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Verkenning van Generatieve AI in het beoordelingsproces van aanbestedingen",
+          "date": "2025-10-14",
+          "category": "Overheidsfinanciën"
+        },
+        {
+          "name": "Pardon salaris",
+          "date": "2025-09-30",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Leiden",
+      "type": "Gemeente",
+      "algorithm_count": 8,
+      "impactful_count": 5,
+      "high_risk_count": 4,
+      "has_iama": true,
+      "latest_date": "2025-12-01",
+      "first_date": "2025-06-16",
+      "lead_score": 80,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 2,
+        "Sociale zekerheid": 1,
+        "Verkeer": 2,
+        "Openbare orde en veiligheid": 1
+      },
+      "contact_emails": [
+        "algoritmes@leidse-regio.nl"
+      ],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "Parkeercontrole",
+          "date": "2025-12-01",
+          "category": "Verkeer"
+        },
+        {
+          "name": "Cameratoezicht verkeersmaatregelen",
+          "date": "2025-12-01",
+          "category": "Verkeer"
+        },
+        {
+          "name": "Meldingen openbare ruimte",
+          "date": "2025-12-01",
+          "category": "Openbare orde en veiligheid"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Gennep",
+      "type": "Gemeente",
+      "algorithm_count": 6,
+      "impactful_count": 4,
+      "high_risk_count": 4,
+      "has_iama": false,
+      "latest_date": "2025-06-26",
+      "first_date": "2024-11-12",
+      "lead_score": 78,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 4
+      },
+      "contact_emails": [
+        "gemeente@gennep.nl"
+      ],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "Chatbot JAI",
+          "date": "2025-06-26",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "KCC-chatbot ELLEN",
+          "date": "2025-04-24",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Cryptshare",
+          "date": "2024-12-16",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Woensdrecht",
+      "type": "Gemeente",
+      "algorithm_count": 8,
+      "impactful_count": 4,
+      "high_risk_count": 2,
+      "has_iama": false,
+      "latest_date": "2025-05-15",
+      "first_date": "2025-04-29",
+      "lead_score": 76,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 4,
+        "Ruimte en infrastructuur, Overheidsfinanciën, Organisatie en bedrijfsvoering": 1,
+        "Organisatie en bedrijfsvoering, Openbare orde en veiligheid, Internationaal": 1,
+        "Sociale zekerheid": 1,
+        "Ruimte en infrastructuur, Openbare orde en veiligheid": 1
+      },
+      "contact_emails": [
+        "gemeente@woensdrecht.nl"
+      ],
+      "websites": [
+        "https://www.woensdrecht.nl/wonen-en-leven",
+        "https://meldingen.woensdrecht.nl/incident/beschrijf",
+        "https://www.woensdrecht.nl/toegankelijkheidsverklaring"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Vroegsignalering ",
+          "date": "2025-05-15",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Voorleessoftware website ",
+          "date": "2025-05-06",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "iBurgerzaken e-diensten",
+          "date": "2025-05-01",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Doesburg",
+      "type": "Gemeente",
+      "algorithm_count": 5,
+      "impactful_count": 3,
+      "high_risk_count": 4,
+      "has_iama": false,
+      "latest_date": "2025-06-30",
+      "first_date": "2024-04-09",
+      "lead_score": 69,
+      "priority": "Warm",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 2,
+        "Overheidsfinanciën": 2,
+        "Sociale zekerheid": 1
+      },
+      "contact_emails": [
+        "info@doesburg.nl",
+        "belastingen@doesburg.nl",
+        "werkeninkomen@doesburg.nl"
+      ],
+      "websites": [
+        "http://www.doesburg.nl/bijstand-uitkering"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Veilig mailen",
+          "date": "2025-06-30",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Belastingen: Berekening belastingbedrag lokale heffingen",
+          "date": "2025-05-07",
+          "category": "Overheidsfinanciën"
+        },
+        {
+          "name": "Belastingen: WOZ taxatiemodellen",
+          "date": "2024-04-18",
+          "category": "Overheidsfinanciën"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Beuningen",
+      "type": "Gemeente",
+      "algorithm_count": 6,
+      "impactful_count": 2,
+      "high_risk_count": 3,
+      "has_iama": false,
+      "latest_date": "2025-12-19",
+      "first_date": "2024-09-06",
+      "lead_score": 62,
+      "priority": "Warm",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 6
+      },
+      "contact_emails": [
+        "privacy@beuningen.nl"
+      ],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "ReadSpeaker",
+          "date": "2025-12-19",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Gezichtsvergelijking – hulpmiddel voor identiteitsvaststelling bij gemeentelijke balie",
+          "date": "2025-07-18",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Zivver",
+          "date": "2025-07-18",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 95
+    }
+  ],
+  "strategic_targets": [
+    {
+      "name": "Stichting Inlichtingenbureau",
+      "type": "ZBO",
+      "algorithm_count": 21,
+      "impactful_count": 21,
+      "high_risk_count": 8,
+      "has_iama": false,
+      "latest_date": "2025-12-24",
+      "first_date": "2025-08-04",
+      "lead_score": 100,
+      "priority": "Hot",
+      "categories": {
+        "Sociale zekerheid": 21
+      },
+      "contact_emails": [],
+      "websites": [
+        "https://www.bidn.nl/inzage-in-de-verwerking-van-gegevens",
+        "https://www.bidn.nl/rechtmatigheid-studietoeslag",
+        "https://www.bidn.nl/inkomens-en-vermogenstoets-bijzondere-bijstand",
+        "https://www.bidn.nl/doelgroepouders-kinderopvangtoeslag",
+        "https://www.bidn.nl/rechtmatigheid-samenloopsignalering",
+        "https://www.bidn.nl/ondersteuning-inkomstenverrekening-bijstand",
+        "https://www.bidn.nl/incasso-ondersteuning-bijstandsdebiteuren"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Antwoordberichten DGO-KOT ",
+          "date": "2025-12-24",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "LKS-signaal re-integratie",
+          "date": "2025-12-24",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Rechtmatigheid Studietoeslag",
+          "date": "2025-09-03",
+          "category": "Sociale zekerheid"
+        }
+      ],
+      "outreach_score": 100
+    },
+    {
+      "name": "Gemeente Zaanstad",
+      "type": "Gemeente",
+      "algorithm_count": 6,
+      "impactful_count": 5,
+      "high_risk_count": 1,
+      "has_iama": true,
+      "latest_date": "2025-11-13",
+      "first_date": "2024-11-24",
+      "lead_score": 62,
+      "priority": "Warm",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 3,
+        "Openbare orde en veiligheid": 2,
+        "Sociale zekerheid": 1
+      },
+      "contact_emails": [],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "Experiment Microsoft Copilot 365",
+          "date": "2025-11-13",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Octobox Anonimiseren",
+          "date": "2025-06-24",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Controle met een scanauto",
+          "date": "2024-11-24",
+          "category": "Openbare orde en veiligheid"
+        }
+      ],
+      "outreach_score": 95
+    },
+    {
+      "name": "Gemeente Utrecht",
+      "type": "Gemeente",
+      "algorithm_count": 45,
+      "impactful_count": 45,
+      "high_risk_count": 9,
+      "has_iama": false,
+      "latest_date": "2025-10-31",
+      "first_date": "2024-07-12",
+      "lead_score": 100,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 3,
+        "Sociale zekerheid": 6,
+        "Ruimte en infrastructuur": 6,
+        "Wonen": 2,
+        "Onderwijs en wetenschap": 1,
+        "Verkeer": 6,
+        "Recht": 1,
+        "Openbare orde en veiligheid": 13,
+        "Zorg en gezondheid": 4,
+        "Natuur en milieu": 3
+      },
+      "contact_emails": [
+        "algoritmeregister@utrecht.nl"
+      ],
+      "websites": [
+        "https://loket.digitaal.utrecht.nl/nl/producten/verhuizing-doorgeven",
+        "https://mijnstembureau-utrecht.nl"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Stembureaumanager",
+          "date": "2025-10-31",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Uitkeringen Automatische Inkomsten Verrekening",
+          "date": "2025-10-31",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Telsensoren binnenstad",
+          "date": "2025-10-31",
+          "category": "Ruimte en infrastructuur"
+        }
+      ],
+      "outreach_score": 90
+    },
+    {
+      "name": "Dienst Toeslagen",
+      "type": "Overig",
+      "algorithm_count": 5,
+      "impactful_count": 5,
+      "high_risk_count": 5,
+      "has_iama": false,
+      "latest_date": "2025-06-20",
+      "first_date": "2025-03-26",
+      "lead_score": 85,
+      "priority": "Hot",
+      "categories": {
+        "Sociale zekerheid": 5
+      },
+      "contact_emails": [
+        "algoritmeregister.toeslagen@toeslagen.nl"
+      ],
+      "websites": [
+        "https://kindregelingvoorjou.nl/ https://herstel.toeslagen.nl/kindregeling/kindregeling-steun-voor-kinderen-en-jongeren/ https://herstel.toeslagen.nl/dashboard-kinderopvangtoeslag/",
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/kinderopvangtoeslag/kinderopvangtoeslag",
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/huurtoeslag/huurtoeslag",
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/kindgebonden-budget/kindgebonden-budget",
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/zorgtoeslag/zorgtoeslag"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Populatiebepaling kindregeling",
+          "date": "2025-06-20",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Berekenen Huurtoeslag",
+          "date": "2025-03-26",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Berekenen Kindgebonden Budget",
+          "date": "2025-03-26",
+          "category": "Sociale zekerheid"
+        }
+      ],
+      "outreach_score": 90
+    },
+    {
+      "name": "Gemeente Velsen",
+      "type": "Gemeente",
+      "algorithm_count": 9,
+      "impactful_count": 6,
+      "high_risk_count": 3,
+      "has_iama": true,
+      "latest_date": "2025-08-15",
+      "first_date": "2024-11-28",
+      "lead_score": 79,
+      "priority": "Hot",
+      "categories": {
+        "Openbare orde en veiligheid": 1,
+        "Internationaal, Openbare orde en veiligheid": 1,
+        "Organisatie en bedrijfsvoering": 4,
+        "Verkeer": 1
+      },
+      "contact_emails": [
+        "info@velsen.nl"
+      ],
+      "websites": [
+        "https://commonground.nl/groups/view/978adf62-97f2-4955-87cc-7fee0cd238e0/team-virtuele-assistent-gem?utm_medium=email&utm_campaign=overview."
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Meldingen openbare ruimte",
+          "date": "2025-08-15",
+          "category": "Openbare orde en veiligheid"
+        },
+        {
+          "name": "Geautomatiseerde gezichtsvergelijking bij Burgerzaken  ",
+          "date": "2025-05-07",
+          "category": "Internationaal, Openbare orde en veiligheid"
+        },
+        {
+          "name": "Intelligente Verkeersregel Installatie (iVRI) ",
+          "date": "2025-04-17",
+          "category": "Verkeer"
+        }
+      ],
+      "outreach_score": 90
+    },
+    {
+      "name": "Omgevingsdienst Noordzeekanaalgebied",
+      "type": "Overig",
+      "algorithm_count": 8,
+      "impactful_count": 7,
+      "high_risk_count": 1,
+      "has_iama": false,
+      "latest_date": "2025-06-17",
+      "first_date": "2024-02-27",
+      "lead_score": 78,
+      "priority": "Hot",
+      "categories": {
+        "Natuur en milieu, Ruimte en infrastructuur, Openbare orde en veiligheid": 1,
+        "Natuur en milieu, Openbare orde en veiligheid": 3,
+        "Organisatie en bedrijfsvoering, Natuur en milieu, Openbare orde en veiligheid": 1,
+        "Openbare orde en veiligheid, Natuur en milieu, Ruimte en infrastructuur": 2,
+        "Natuur en milieu, Openbare orde en veiligheid, Organisatie en bedrijfsvoering": 1
+      },
+      "contact_emails": [],
+      "websites": [
+        "https://odnzkg.nl/algoritmeregister/"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Aanvullen dossiers",
+          "date": "2025-06-17",
+          "category": "Natuur en milieu, Openbare orde en veiligheid, Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Adviesverzoeken uitzetten",
+          "date": "2024-12-03",
+          "category": "Organisatie en bedrijfsvoering, Natuur en milieu, Openbare orde en veiligheid"
+        },
+        {
+          "name": "Uitgaande communicatie in grote hoeveelheden verzenden",
+          "date": "2024-10-08",
+          "category": "Natuur en milieu, Openbare orde en veiligheid"
+        }
+      ],
+      "outreach_score": 90
+    },
+    {
+      "name": "Raad voor de Kinderbescherming",
+      "type": "ZBO",
+      "algorithm_count": 6,
+      "impactful_count": 6,
+      "high_risk_count": 2,
+      "has_iama": true,
+      "latest_date": "2025-12-03",
+      "first_date": "2024-04-25",
+      "lead_score": 66,
+      "priority": "Warm",
+      "categories": {
+        "Recht": 6
+      },
+      "contact_emails": [
+        "lij@minjenv.nl",
+        "cio@rvdk.nl"
+      ],
+      "websites": [
+        "https://www.kinderbescherming.nl/over-ons/ons-werk-in-aantallen/jaarberichten/kijk-op-kinderbescherming-2018/jongeren-met-lvb"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Module Zorg (onderdeel Ritax LIJ)",
+          "date": "2025-12-03",
+          "category": "Recht"
+        },
+        {
+          "name": "Screeningsinstrument Psychische Stoornissen (SPSy)",
+          "date": "2025-12-03",
+          "category": "Recht"
+        },
+        {
+          "name": "Strengths and Difficulties Questionnaire (SDQ)",
+          "date": "2025-12-03",
+          "category": "Recht"
+        }
+      ],
+      "outreach_score": 90
+    },
+    {
+      "name": "Gemeente Rotterdam",
+      "type": "Gemeente",
+      "algorithm_count": 28,
+      "impactful_count": 8,
+      "high_risk_count": 9,
+      "has_iama": true,
+      "latest_date": "2025-12-15",
+      "first_date": "2024-07-18",
+      "lead_score": 90,
+      "priority": "Hot",
+      "categories": {
+        "Wonen": 3,
+        "Migratie en integratie": 1,
+        "Openbare orde en veiligheid": 4,
+        "Organisatie en bedrijfsvoering": 6,
+        "Sociale zekerheid, Werk": 1,
+        "Ruimte en infrastructuur": 2,
+        "Sociale zekerheid": 6,
+        "Economie, Ruimte en infrastructuur, Natuur en milieu": 1,
+        "Economie": 1,
+        "Natuur en milieu": 1
+      },
+      "contact_emails": [
+        "rpadv@rotterdam.nl",
+        "waterloket@rotterdam.nl",
+        "ondernemen.rbz@rotterdam.nl",
+        "ri-loket@rotterdam.nl",
+        "kccrapportagespzr@rotterdam.nl",
+        "veiligheidsloket@rotterdam.nl",
+        "tenv.wi@rotterdam.nl",
+        "communicatiedienstverlening@rotterdam.nl",
+        "teamdocumentcreatiebco@rotterdam.nl",
+        "verkiezingen@rotterdam.nl",
+        "kwijtscheldinggbr@rotterdam.nl",
+        "informatiemanagement@griffie.rotterdam.nl",
+        "seniorenteamwoningendv@rotterdam.nl",
+        "algoritmeexpert@rotterdam.nl",
+        "algoritmetoezichtbco@rotterdam.nl",
+        "dwanginvorderingdv@rotterdam.nl",
+        "mobiliteitso@rotterdam.nl"
+      ],
+      "websites": [
+        "https://www.gripvol.nl/de-gripvol-adviesrobot/",
+        "https://portal.ina-pfr.nl/",
+        "https://www.inlichtingenbureau.nl/Beleidsterreinen/Belastingen/Kwijtschelding-lokale-belastingen",
+        "https://algoritmeregister.rotterdam.nl",
+        "https://rotterdam.maps.arcgis.com/apps/webappviewer/index.html?id=6e37b7b6c0df407f881edb007e819803",
+        "https://commonground.nl/groups/view/978adf62-97f2-4955-87cc-7fee0cd238e0/team-virtuele-assistent-gem?utm_medium=email&utm_campaign=overview.",
+        "https://huurprijscalculator.rotterdam.nl/link/home",
+        "https://www.rotterdam.nl/paspoort-voor-volwassenen-aanvragen",
+        "https://www.rotterdam.nl/woz-waarde",
+        "https://algoritmeregister.rotterdam.nl/p/Onzealgoritmes/53761720551735604",
+        "https://www.peutz.nl/actualiteiten/nieuws/monitoring-nestgeluid-van-zeeschepen-met-behulp-van-artificial-intelligence",
+        "https://www.rotterdam.nl/scanauto",
+        "https://www.dariuz.nl/tools-trainingen/loonwaarde/",
+        "https://www.rotterdam.nl/milieuzone-maasvlakte-rotterdam"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Virtuele gemeente assistent Gem",
+          "date": "2025-12-15",
+          "category": "Organisatie en bedrijfsvoering"
+        },
+        {
+          "name": "Notuleren van raadsvergaderingen",
+          "date": "2025-12-05",
+          "category": ""
+        },
+        {
+          "name": "Chatbot Rowiki",
+          "date": "2025-12-05",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 85
+    },
+    {
+      "name": "Gemeente Groningen",
+      "type": "Gemeente",
+      "algorithm_count": 15,
+      "impactful_count": 6,
+      "high_risk_count": 9,
+      "has_iama": true,
+      "latest_date": "2025-03-14",
+      "first_date": "2023-12-15",
+      "lead_score": 90,
+      "priority": "Hot",
+      "categories": {
+        "Organisatie en bedrijfsvoering": 2,
+        "Organisatie en bedrijfsvoering, Overheidsfinanciën": 1,
+        "Verkeer": 4,
+        "Sociale zekerheid": 2,
+        "Openbare orde en veiligheid, Ruimte en infrastructuur": 1,
+        "Natuur en milieu": 2,
+        "Ruimte en infrastructuur": 3
+      },
+      "contact_emails": [
+        "opendata@groningen.nl"
+      ],
+      "websites": [
+        "https://vimeo.com/307698982/bcddd9b4dd https://gemeente.groningen.nl/handhaving https://experience.arcgis.com/experience/54245b73619f46ef8962f2c3f7782925/page/Sensorenregister/?views=Verkeer",
+        "https://www.groningenbereikbaar.nl/nieuws/vijftien-slimme-verkeerslichten-in-groningen-en-drenthe-video  https://www.groningenbereikbaar.nl/nieuws/slimme-verkeerslichten-en-apps-verbeteren-doorstroming  https://experience.arcgis.com/experience/54245b73619f46ef8962f2c3f7782925/page/Sensorenregister/?views=Verkeer  https://experience.arcgis.com/experience/54245b73619f46ef8962f2c3f7782925/page/Sensorenregister/?views=Verkeer",
+        "https://gemeente.groningen.nl/geluidkaarten-voor-omgevingslawaai-inzien",
+        "https://experience.arcgis.com/experience/54245b73619f46ef8962f2c3f7782925/page/Sensorenregister/?views=Verkeer",
+        "https://www.klimaatregeleneuvelgunne.nl/minder-regenwater-naar-riolering",
+        "https://gemeente.groningen.nl/eerste-hulp-bij-geldzaken",
+        "https://groningen.maps.arcgis.com/apps/webappviewer/index.html?id=9933a08ff84b4a3690959780d55e8e03"
+      ],
+      "recent_algorithms": [
+        {
+          "name": "Intelligente Verkeersregel Installatie (iVRI) bij verkeerslichten ",
+          "date": "2025-03-14",
+          "category": "Verkeer"
+        },
+        {
+          "name": "Scanauto",
+          "date": "2024-11-15",
+          "category": "Openbare orde en veiligheid, Ruimte en infrastructuur"
+        },
+        {
+          "name": "Zivver: assistent bij beveiligen e-mails",
+          "date": "2024-09-05",
+          "category": "Organisatie en bedrijfsvoering"
+        }
+      ],
+      "outreach_score": 85
+    },
+    {
+      "name": "Uitvoeringsinstituut Werknemersverzekeringen",
+      "type": "Overig",
+      "algorithm_count": 11,
+      "impactful_count": 5,
+      "high_risk_count": 5,
+      "has_iama": true,
+      "latest_date": "2025-12-18",
+      "first_date": "2025-11-05",
+      "lead_score": 90,
+      "priority": "Hot",
+      "categories": {
+        "Sociale zekerheid": 7,
+        "Sociale zekerheid, Organisatie en bedrijfsvoering": 1,
+        "Sociale zekerheid, Werk": 3
+      },
+      "contact_emails": [],
+      "websites": [],
+      "recent_algorithms": [
+        {
+          "name": "Risicogericht Prioriteren",
+          "date": "2025-12-18",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Vaststellingsmodel regres",
+          "date": "2025-12-15",
+          "category": "Sociale zekerheid"
+        },
+        {
+          "name": "Risicoscan Verwijtbare Werkloosheid",
+          "date": "2025-12-15",
+          "category": "Sociale zekerheid, Werk"
+        }
+      ],
+      "outreach_score": 80
+    }
+  ]
+}

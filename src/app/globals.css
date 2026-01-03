@@ -1,0 +1,161 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --primary: #2563eb;
+  --primary-foreground: #ffffff;
+  --muted: #64748b;
+  --muted-foreground: #94a3b8;
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --border: #e2e8f0;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #dc2626;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: linear-gradient(145deg, #f8fafc 0%, #e2e8f0 50%, #f1f5f9 100%);
+  min-height: 100vh;
+}
+
+/* Stat Cards */
+.stat-card {
+  @apply bg-white rounded-xl p-6 shadow-sm border border-slate-100 relative overflow-hidden transition-all duration-300;
+}
+
+.stat-card:hover {
+  @apply shadow-lg -translate-y-1;
+}
+
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+}
+
+.stat-primary::before {
+  background: linear-gradient(90deg, #2563eb, #6366f1);
+}
+
+.stat-danger::before {
+  background: linear-gradient(90deg, #dc2626, #f87171);
+}
+
+.stat-warning::before {
+  background: linear-gradient(90deg, #f59e0b, #fbbf24);
+}
+
+.stat-info::before {
+  background: linear-gradient(90deg, #6366f1, #818cf8);
+}
+
+/* Score Badge */
+.score-badge {
+  @apply inline-flex items-center justify-center min-w-12 px-3 py-1.5 rounded-lg font-bold text-sm;
+}
+
+.score-high {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+  @apply text-white;
+}
+
+.score-medium {
+  background: linear-gradient(135deg, #d97706 0%, #f59e0b 100%);
+  @apply text-white;
+}
+
+.score-low {
+  @apply bg-slate-200 text-slate-600;
+}
+
+/* Type Badge */
+.type-badge {
+  @apply inline-block px-2.5 py-1 rounded-md text-xs font-medium capitalize;
+}
+
+.type-gemeente {
+  @apply bg-blue-100 text-blue-800;
+}
+
+.type-provincie {
+  @apply bg-purple-100 text-purple-800;
+}
+
+.type-rijksoverheid {
+  @apply bg-green-100 text-green-800;
+}
+
+/* Risk Badge */
+.risk-badge {
+  @apply inline-flex items-center justify-center min-w-8 px-2 py-1 rounded-md font-semibold text-sm;
+}
+
+.risk-high {
+  @apply bg-red-100 text-red-700;
+}
+
+.risk-zero {
+  @apply bg-slate-100 text-slate-400;
+}
+
+/* IAMA Bar */
+.iama-bar {
+  @apply h-1.5 bg-slate-200 rounded-full overflow-hidden w-24;
+}
+
+.iama-fill {
+  @apply h-full rounded-full transition-all duration-300;
+}
+
+.iama-fill.complete {
+  @apply bg-emerald-500;
+}
+
+.iama-fill.partial {
+  @apply bg-amber-500;
+}
+
+.iama-fill.low {
+  @apply bg-red-500;
+}
+
+/* Propositie Banner */
+.propositie-banner {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 50%, #1e3a5f 100%);
+  @apply rounded-xl p-6 text-white shadow-lg;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out;
+}
+
+.animate-delay-100 {
+  animation-delay: 0.1s;
+}
+
+.animate-delay-200 {
+  animation-delay: 0.2s;
+}
+
+.animate-delay-300 {
+  animation-delay: 0.3s;
+}
