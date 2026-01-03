@@ -12,7 +12,7 @@ interface AlgorithmOrg {
     has_iama: boolean;
     latest_date: string | null;
     first_date: string | null;
-    categories: Record<string, number>;
+    categories: Record<string, number | undefined>;
     statuses: Record<string, number>;
     algorithms: any[];
 }

@@ -45,7 +45,7 @@ interface Organization {
     has_iama: boolean;
     latest_date: string | null;
     first_date: string | null;
-    categories: Record<string, number>;
+    categories: Record<string, number | undefined>;
     statuses: Record<string, number>;
     algorithms: Algorithm[];
 }
@@ -288,18 +288,21 @@ export function OrganizationDetail({ orgName, onClose }: OrganizationDetailProps
                             <div>
                                 <h3 className="font-semibold text-slate-800 mb-3">Categorieën</h3>
                                 <div className="space-y-2">
-                                    {Object.entries(org.categories).sort(([, a], [, b]) => b - a).map(([cat, count]) => (
-                                        <div key={cat} className="flex items-center gap-3">
-                                            <div className="flex-1 bg-slate-100 rounded-full h-6 overflow-hidden">
-                                                <div
-                                                    className="h-full bg-indigo-500 rounded-full"
-                                                    style={{ width: `${(count / org.algorithm_count) * 100}%` }}
-                                                />
+                                    {Object.entries(org.categories)
+                                        .filter(([, count]) => count !== undefined)
+                                        .sort(([, a], [, b]) => (b ?? 0) - (a ?? 0))
+                                        .map(([cat, count]) => (
+                                            <div key={cat} className="flex items-center gap-3">
+                                                <div className="flex-1 bg-slate-100 rounded-full h-6 overflow-hidden">
+                                                    <div
+                                                        className="h-full bg-indigo-500 rounded-full"
+                                                        style={{ width: `${((count ?? 0) / org.algorithm_count) * 100}%` }}
+                                                    />
+                                                </div>
+                                                <span className="text-sm text-slate-600 w-32 text-right">{cat}</span>
+                                                <span className="text-sm font-medium text-slate-800 w-8">{count ?? 0}</span>
                                             </div>
-                                            <span className="text-sm text-slate-600 w-32 text-right">{cat}</span>
-                                            <span className="text-sm font-medium text-slate-800 w-8">{count}</span>
-                                        </div>
-                                    ))}
+                                        ))}
                                 </div>
                             </div>
 

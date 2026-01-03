@@ -8,8 +8,8 @@ interface Tender {
     'Publicatiedatum': string;
     'Naam Aanbestedende dienst': string;
     'Naam aanbesteding': string;
-    'Korte beschrijving opdracht': string;
-    'Geraamde waarde in EUR': number | null;
+    'Korte beschrijving opdracht'?: string;
+    'Geraamde waarde in EUR'?: number | null;
     'URL TenderNed': string;
     category: 'AI' | 'Governance' | 'ICT';
     year: number;
@@ -78,7 +78,7 @@ export function TenderExplorer() {
         setCurrentPage(1);
     }, [searchTerm, categoryFilter, yearFilter, orgFilter]);
 
-    const formatCurrency = (value: number | null) => {
+    const formatCurrency = (value: number | null | undefined) => {
         if (!value) return '-';
         return new Intl.NumberFormat('nl-NL', {
             style: 'currency',
@@ -253,8 +253,8 @@ export function TenderExplorer() {
                                 onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
                                 disabled={currentPage === 1}
                                 className={`px-3 py-1.5 rounded-lg text-sm font-medium transition ${currentPage === 1
-                                        ? 'bg-slate-100 text-slate-400 cursor-not-allowed'
-                                        : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'
+                                    ? 'bg-slate-100 text-slate-400 cursor-not-allowed'
+                                    : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'
                                     }`}
                             >
                                 Vorige
@@ -263,8 +263,8 @@ export function TenderExplorer() {
                                 onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
                                 disabled={currentPage === totalPages}
                                 className={`px-3 py-1.5 rounded-lg text-sm font-medium transition ${currentPage === totalPages
-                                        ? 'bg-slate-100 text-slate-400 cursor-not-allowed'
-                                        : 'bg-indigo-600 text-white hover:bg-indigo-700'
+                                    ? 'bg-slate-100 text-slate-400 cursor-not-allowed'
+                                    : 'bg-indigo-600 text-white hover:bg-indigo-700'
                                     }`}
                             >
                                 Volgende

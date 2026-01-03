@@ -10,7 +10,7 @@ export interface Lead {
     first_date: string | null;
     lead_score: number;
     priority: string;
-    categories: Record<string, number>;
+    categories: Record<string, number | undefined>;
     recent_algorithms: Array<{
         name: string;
         date: string | null;

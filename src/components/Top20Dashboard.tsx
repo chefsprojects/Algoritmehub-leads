@@ -24,7 +24,7 @@ interface TopLead {
     lead_score: number;
     priority: string;
     outreach_score: number;
-    categories: Record<string, number>;
+    categories: Record<string, number | undefined>;
     recent_algorithms?: Array<{ name: string; date: string | null; category: string }>;
     contact_emails?: string[];
     websites?: string[];
